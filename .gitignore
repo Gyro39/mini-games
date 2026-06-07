@@ -1,0 +1,30 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Game data (personal scores)
+scores.json
+
+# Dev artifacts (redundant / test files)
+*_extracted.css
+test.html
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.log
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
